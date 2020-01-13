@@ -1,0 +1,136 @@
+Epoch 1/10Epoch 1/10Epoch 1/10Epoch 1/10Epoch 1/10
+
+Epoch 1/10
+
+Epoch 1/10
+
+Epoch 1/10
+
+Epoch 1/10
+
+Epoch 1/10
+
+Epoch 1/10
+
+train Step: 1 Dice Loss: 0.9965 Acc: 4.8024 %
+train Step: 2 Dice Loss: 0.9981 Acc: 19.7026 %
+train Step: 3 Dice Loss: 0.9114 Acc: 33.8608 %
+Epoch 1/10
+
+Epoch 1/10
+
+train Step: 1 Dice Loss: 0.9822 Acc: 98.8899 %
+train Step: 2 Dice Loss: 0.9980 Acc: 99.9043 %
+train Step: 3 Dice Loss: 0.9818 Acc: 98.9032 %
+Epoch 1/10
+
+train Step: 1 Dice Loss: 0.9835 Acc: 98.9577 %
+Epoch 1/10
+
+train Step: 1 Dice Loss: 0.9757 Acc: 98.4760 %
+Epoch 1/10
+
+train Step: 1 Dice Loss: 0.8571 Acc: 90.0789 %
+Epoch 1/10
+
+Epoch 1/10
+
+Epoch 1/20
+
+Epoch 1/20
+
+train Step: 1 Loss: 0.5097 Dice Loss: 0.9430 Acc: 96.3227 %
+train Step: 2 Loss: 0.5089 Dice Loss: 0.9611 Acc: 97.5866 %
+Epoch 1/20
+
+Epoch 1/20
+
+Epoch 1/20
+
+train Step: 1 Dice Loss: 0.9401 Acc: 6.9158 %
+train Step: 2 Dice Loss: 0.9598 Acc: 6.1457 %
+Epoch 1/30
+
+Epoch 1/30
+
+Epoch 1/30
+
+train Step: 1 SLoss: 0.6247 Dice Loss: 0.9989 Acc: 96.4019 %
+Epoch 1/30
+
+Epoch 1/30
+
+train Step: 1 SLoss: 0.5794 Dice Loss: 0.9836 Acc: 98.5423 %
+train Step: 2 SLoss: 0.6194 Dice Loss: 0.9946 Acc: 95.4078 %
+
+train Epoch 1: SLoss: 0.0196 Dice Loss: 0.0323 Acc: 3.1691 %
+
+
+Epoch 1/30
+
+train Step: 1 SLoss: 0.4008 Dice Loss: 0.9786 Acc: 99.1797 %
+train Step: 2 SLoss: 0.3927 Dice Loss: 0.9167 Acc: 98.7341 %
+Epoch 1/30
+
+train Step: 1 SLoss: 0.4999 Dice Loss: 0.9902 Acc: 97.3740 %
+train Step: 2 SLoss: 0.6094 Dice Loss: 0.9958 Acc: 94.0749 %
+
+train Epoch 1: SLoss: 0.0181 Dice Loss: 0.0325 Acc: 3.1282 %
+
+
+
+val Epoch 1: SLoss: 0.0253 Dice Loss: 0.0218 Acc: 6.5340 %
+
+
+Epoch 2/30
+
+Epoch 1/25
+
+Epoch 1/25
+
+train Step 1- Loss: 691.5243, Dice Loss: 0.9317, Reg Loss: 690.5926
+train Step 2- Loss: 703.4585, Dice Loss: 0.9656, Reg Loss: 702.4929
+
+train Epoch 1: RegLoss: 22.7628 Dice Loss: 0.0310 %
+
+
+Epoch 1/25
+
+train Step 1- Loss: 1.7654, Dice Loss: 0.9854, Reg Loss: 780.0249
+train Step 2- Loss: 1.6810, Dice Loss: 0.9212, Reg Loss: 759.8043
+
+train Epoch 1: RegLoss: 25.1606 Dice Loss: 0.0312 %
+
+
+Epoch 1/25
+
+train Step 1- Loss: 1.2898, Dice Loss: 0.9464, Reg Loss: 343.3293
+train Step 2- Loss: 1.9135, Dice Loss: 0.9495, Reg Loss: 963.9357
+
+train Epoch 1: RegLoss: 21.3605 Dice Loss: 0.0310 %
+
+
+Epoch 1/25
+
+train Step 1- Loss: 1.7643, Dice Loss: 0.9776, Reg Loss: 0.7868
+train Step 2- Loss: 1.7761, Dice Loss: 0.9871, Reg Loss: 0.7890
+
+train Epoch 1: RegLoss: 0.0257 Dice Loss: 0.0321 %
+
+
+Epoch 1/25
+
+train Step 1- Loss: 1.3947, Dice Loss: 0.9431, Reg Loss: 0.4516
+train Step 2- Loss: 1.5174, Dice Loss: 0.9988, Reg Loss: 0.5186
+
+train Epoch 1: RegLoss: 0.0159 Dice Loss: 0.0317 %
+
+
+Epoch 1/25
+
+train Step 1- Loss: 1.3938, Dice Loss: 0.9118, Reg Loss: 0.4820
+train Step 2- Loss: 1.3809, Dice Loss: 0.9538, Reg Loss: 0.4271
+
+train Epoch 1: RegLoss: 0.0149 Dice Loss: 0.0305 %
+
+
